@@ -31,9 +31,8 @@ I am currently focused on software development with Python, while building my fo
 
 - 🇧🇷 **Portuguese:** Native 👑
 - 🇺🇸 **English:** Intermediate/Advanced (B1/B2) (Refining) ✅
-- 🇫🇷 **French:** Beginner (Learning)
-- 🇩🇪 **German:** Beginner (A1) 🇩🇪 *Learning because I love the language, European culture, and plan to move abroad.* **(STOPPED Until I get A2-B1 In Dutch).**
-- 🇳🇱 **Dutch** Beginner (A1-A2) Ik spreek niet zo goed Nederlands, maar ik ben het aan het leren.
-
+- 🇯🇵 **Japanese** Heading toward N5...
+- 🇫🇷 **French:** Beginner (Learning - A1)
+- 🇩🇪 **German:** Beginner (A1) 🇩🇪 *Learning because I love the language, European culture, and plan to move abroad.* **(STOPPED Until I get A2-B1 In French).**
 ---
 Always learning. Always improving. 🚀
