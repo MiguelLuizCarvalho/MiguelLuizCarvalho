@@ -25,6 +25,7 @@ I am currently focused on software development with Python, while building my fo
 ## 🏆 My Goals
 
 - **High School Abroad?** Considering **UWC (United World Colleges)** in the future (still evaluating if it fits my long-term path).
+- **Maybe Prontos Para o Mundo SP too**
 - To build a successful international career.
 - **Become fluent in multiple languages.**
 
