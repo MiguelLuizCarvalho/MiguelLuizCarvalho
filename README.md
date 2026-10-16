@@ -18,7 +18,8 @@ I am currently focused on software development with Python, while building my fo
 
 ## 📈 Currently Learning
 
-- 🛡️ Google Cybersecurity Professional Certificate (Coursera)
+- 🛡️ Google Cybersecurity Professional Certificate (Coursera) (STOPPED)
+- 💻 **HTB** (Hack The Box RED TEAM)
 - 🎓 CS50's Introduction to Cybersecurity (Harvard University / edX)
 
 ## 🏆 My Goals
